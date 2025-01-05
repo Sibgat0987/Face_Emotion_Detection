@@ -1,0 +1,6 @@
+images
+.ipynb_checkpoints
+tempCodeRunnerFile.py
+venv
+emotiondetector.h5
+emotiondetector.json
